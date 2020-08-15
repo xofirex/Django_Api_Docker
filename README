@@ -1,0 +1,17 @@
+#POSTMAN
+https://www.getpostman.com/collections/4ac49e7d1fa7fa0ad4ce
+
+#HEROKU
+http://horbanivan.herokuapp.com
+
+
+#LOCAL
+1. Install requirements.txt
+2. run `python manage.py migrate`
+3. run `python manage.py runserver`
+4. run `python manage.py runcrons`
+
+
+#LOCAL WITH DOCKER
+1. Install Docker
+2. run `docker-compose up`
